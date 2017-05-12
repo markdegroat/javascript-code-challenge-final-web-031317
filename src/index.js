@@ -2,6 +2,8 @@ $(document).ready(function(){
   // your code here!
 
   picture_controller = new PictureController()
-  picture_controller.handleClicks()
+  //haha I think this function might be doing too many different things...
+  //TODO git guud @ javascript
+  picture_controller.handleFormSubmissionsAndRenderPictures()
 
 })

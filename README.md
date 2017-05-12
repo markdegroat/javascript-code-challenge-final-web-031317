@@ -19,8 +19,16 @@ Instant-gram is anti-persistence, so we won't be making any requests to a backen
 
 Build out the feature so that it functions in accordance with the gif above. Don't worry about the CSS/styling - just get the basic functionality working.
 
-Do your best to follow best practices/separation of concerns. Can you use separate classes? Make a model? Above all, though, just get it to work.
+DONE
+
+Do your best to follow best practices/separation of concerns. Can you use separate classes?
+YES I CAN
+Make a model?
+YES WE CAN
+Above all, though, just get it to work.
+ALSO YES
 
 ## Notes
 
 The jQuery library is included for you if you'd like to use it, as well as the Materialize CSS library. You may not use any other JavaScript libraries.
+()
