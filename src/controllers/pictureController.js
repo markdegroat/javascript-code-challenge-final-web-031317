@@ -12,8 +12,8 @@ class PictureController {
 
       // this.allPictures.push(picture)
       //this belongs in a view render fnc
-      $("#photo-list").append(`<img src="${picture.image_url}"></img>`)
-      $("#photo-list").append(`${picture.caption_text}`)
+      const picture_view = new PictureView()
+      picture_view.render(picture)
     })
 
   }
